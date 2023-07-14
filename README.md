@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urusaioji
 - 👀 I’m interested in postgre
 - 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... take it easy! I'm just learning yet. Just don't push me so soon!
 - 📫 How to reach me ...
 
 <!---
